@@ -2,7 +2,8 @@
 function detectHere() {
     let element = document.getElementsByClassName("oIy2qc");
     let length = element.length;
-    let latest = element[length - 1].toLowerCase();
-    return (latest == "here" || latest.indexOf("here") != -1);//I think?
+    //let latest = element[length - 1].toLowerCase();
+    alert("yihang is gay");
+    //return (latest == "here" || latest.indexOf("here") != -1);//I think?
 }
 
