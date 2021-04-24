@@ -1,0 +1,15 @@
+
+input = "asdasdasdSADAD, heRE asdasd  qwqwqdqwe "
+attendenceFlag = False
+while True:
+    input = input.lower()  # convert to lower case
+    for i in range (len(input)): # runs for i times where i is length of input string
+        if input[i] == "h":
+            if input[i:i+4] == "here":
+                attendenceFlag = True
+    if attendenceFlag == True:
+        print("word found")
+    else:
+        print("word not found")
+    break
+
