@@ -1,6 +1,6 @@
 {
-  "name": "humphry",
-  "description": "humphry is a doo doo dingo head",
+  "name": "school skipper",
+  "description": "extension to automatically say 'here' in a google meet",
   "version": "1.0",
   "manifest_version": 3,
   "background": {

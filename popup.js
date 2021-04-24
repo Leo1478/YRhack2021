@@ -46,12 +46,15 @@ function detectHere() {
 
 function sendHere() {
 
-  alert("a text to say that humphry is at least as fat and ugly and gay as wilmer");
+  alert("yeah, we really dont know how to make this program");
   let input = "here";
   //document.getElementsByClassName("KHxj8b tL9Q4c")[0].value = input;
   document.getElementsByName('chatTextInput')[0].value = input;
+  //document.getElementsByClassName('edhGSc zKHdkd XnKlKd CDELXb')[0].value = "hi";
 
-  document.querySelector('.uArJ5e .Y5FYJe .cjq2Db .IOMpW .Cs0vCd .M9Bg4d').click();
+  //document.getElementsByClassName('Pc9Gce Wic03c')[0].value = "hello";
+
+  //document.querySelector('.uArJ5e .Y5FYJe .cjq2Db .IOMpW .Cs0vCd .M9Bg4d').click();
 
   var classes = document.getElementsByClassName('uArJ5e Y5FYJe cjq2Db IOMpW Cs0vCd M9Bg4d');
   var button1 = classes[0];
