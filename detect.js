@@ -5,3 +5,4 @@ function detectHere() {
     let latest = element[length - 1].toLowerCase();
     return (latest == "here" || latest.indexOf("here") != -1);//I think?
 }
+
